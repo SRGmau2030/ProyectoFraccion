@@ -35,7 +35,7 @@ public class MainFraccion {
         //System.out.println(f1.multiplicarFraccion(3, 4).aString());
         
         f1.dividirFraccion(f2);
-        
+        jaskdjijsajdsoa
            
     }
     
